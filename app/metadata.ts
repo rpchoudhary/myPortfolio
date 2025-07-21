@@ -1,0 +1,27 @@
+export const siteConfig = {
+  name: "RP Choudhary - Senior iOS, Flutter & Ionic Hybrid Developer",
+  description:
+    "Experienced PHP, WordPress & Laravel Developer with 4+ years of expertise in web development, e-commerce solutions, and custom integrations. Specializing in Laravel, WordPress, WooCommerce, and modern web technologies.",
+  url: "https://rpchoudhary.dev",
+  ogImage: "https://.dev/og-image.jpg",
+  keywords: [
+    "PHP Developer",
+    "Laravel Developer",
+    "WordPress Developer",
+    "WooCommerce Developer",
+    "Full Stack Developer",
+    "Web Developer",
+    "RP Choudhary",
+    "Pakistan Developer",
+    "Lahore Developer",
+    "Custom WordPress Themes",
+    "Laravel Applications",
+    "E-commerce Development",
+    "API Integration",
+    "MySQL Database",
+    "JavaScript",
+    "HTML/CSS",
+    "Responsive Design",
+    "Web Performance Optimization",
+  ],
+}
